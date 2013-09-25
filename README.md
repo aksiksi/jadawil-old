@@ -1,6 +1,6 @@
 # Jadawil
 
-A course scheduler for United Arab Emirates University students. Running at http://nameless-shore-4042.herokuapp.com/.
+A web application running with Flask that allows UAEU students to schedule their courses without time conflicts. A running version can be found at the repo's website.
 
 # Usage
 
